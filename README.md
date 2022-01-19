@@ -3,4 +3,6 @@
 
 https://stepik.org/lesson/187065
 
-test
+Отправляем файл на Git
+git commit -m "lesson2.4_step8.py"
+git push
